@@ -20,11 +20,13 @@
 | [0009-palindrome-number](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0067-add-binary/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
