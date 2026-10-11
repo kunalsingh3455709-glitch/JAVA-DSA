@@ -19,6 +19,7 @@
 | [0007-reverse-integer](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0029-divide-two-integers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
