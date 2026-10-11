@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,10 +37,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kunalsingh3455709-glitch/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
